@@ -1,0 +1,9 @@
+.testing {
+	color: red;
+}
+
+.spinner .spinnerImage {
+  margin: 25px 0 0 -30px;
+  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAQAAAC0NkA6AAABUklEQVR4Ae3VA4weQRjG8U9BbdttVMa1g7phbUY14to2opof/mEZq7bOPdu+91BzJ4ty5gn3fZLfztL1hy16sJ175COUEclZJuKzF2hLCEF4yln2cJxbFCKEMdo+YgSZlLCXTp8dq808YhF24rWDGEYRMfT5zqQOfoRD1onmpBFH6x9MvZxHmG4VOY3Q/yfz6rwkjbpWiNaUcc6gMxZhuRVkKcIQg46HeO5aQa6QZfw2cJIyqptH7vFYobUaoZt5JJzbCq2ZCD3MI5FKyHSNaOT/QxjKdSKIJJJi8ok0TApCHJFEcp+1eFWI3pSQAvjx85R7+A1znZj3/ScIm1SQ9ea/RLi5y2uV4m7E/E8IP5Ea0cgfjbCHfg4j1EHY7TRSVyP/J+LmLCP1G68RjfwKZBnCdHymiDaE80il2IgIxHTKmKx2PnVYzE52m8haerl+zyoHx7AmLA1+MtoAAAAASUVORK5CYII=')
+    no-repeat;
+}

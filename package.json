@@ -1,0 +1,40 @@
+{
+  "name": "checkout-app",
+  "version": "0.1.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@hapi/boom": "^9.1.0",
+    "@hapi/joi": "^17.1.1",
+    "@material-ui/core": "^4.9.10",
+    "@moxy/next-rest-api": "^1.1.1",
+    "@reduxjs/toolkit": "^1.3.5",
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.4.1",
+    "dot-prop-immutable": "^2.1.0",
+    "isomorphic-unfetch": "^3.0.0",
+    "js-cookie": "^2.2.1",
+    "moment": "^2.24.0",
+    "next": "^9.3.2",
+    "react": "^16.13.0",
+    "react-async-script-loader": "^0.3.0",
+    "react-bootstrap": "^1.0.0-beta.17",
+    "react-countdown": "^2.2.1",
+    "react-country-region-selector": "^2.1.0",
+    "react-dom": "^16.13.0",
+    "react-icons": "^3.9.0",
+    "react-load-script": "^0.0.6",
+    "react-redux": "^7.2.0",
+    "react-spinners": "^0.8.1",
+    "style-loader": "^1.1.4"
+  },
+  "devDependencies": {
+    "@types/node": "^13.11.1",
+    "typescript": "^3.8.3"
+  }
+}
